@@ -16,7 +16,7 @@ function Hero() {
                         </p>
                     </header>
                     <div className="mx-auto lg:text-4xl">
-                        <Button to={"/service"}>Selengkapnya</Button>
+                        <Button to={"/service"}>Learn More</Button>
                     </div>
                 </div>
                 <img
